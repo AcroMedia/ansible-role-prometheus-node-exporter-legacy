@@ -1,4 +1,6 @@
 # ansible-role-prometheus-node-exporter-legacy
+![.github/workflows/molecule.yml](https://github.com/AcroMedia/ansible-role-prometheus-node-exporter-legacy/workflows/.github/workflows/molecule.yml/badge.svg)
+
 Install Prometheus Node Exporter on older init.d-based systems
 
 
