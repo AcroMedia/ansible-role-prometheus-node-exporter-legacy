@@ -11,4 +11,4 @@
       changed_when: false
 
   roles:
-    - role: ansible-role-nfs
+    - role: ansible-role-prometheus-node-exporter-legacy
