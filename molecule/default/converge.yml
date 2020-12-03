@@ -1,0 +1,11 @@
+---
+- name: Converge
+  hosts: all
+  become: true
+
+  vars:
+
+  pre_tasks:
+
+  roles:
+    - role: ansible-role-prometheus-node-exporter-legacy
